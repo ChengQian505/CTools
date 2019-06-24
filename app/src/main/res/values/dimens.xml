@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_textsize">18sp</dimen>
+    <dimen name="item_imgwh">25dp</dimen>
+</resources>
